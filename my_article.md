@@ -1,4 +1,0 @@
-First of all, we have to clearify the question of "What is Data Science"
-Actually Data Science process likes function as we from the Calculus. We have an input which is the **datas** and we have an output that contains mean to us. The output we talkin about has to be meaningful. So the science which produces this meaninful output is the **data science**. I think we get the basic logic of data science.
-
-Recently technology is growth amount is very high so the life is going too fast, things are changes very fast. As a humanity we are produceing data every day and every second. So let us come to the our question. Im gonna give an example to explain our question which is "**Why we need Data Science**". Let us suppose we want to open a "coffee shop". We have to know what people need, what peoples like, which is the best seller coffee type and etc. All these information hides in the meaningless data. And someone have to analys these data and the answer these questions. 
